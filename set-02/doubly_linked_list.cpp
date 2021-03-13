@@ -275,7 +275,7 @@ public:
 };
 
 
-// The TestList struct operates on a singly linked list. It has the same functions as the List structure.
+// The TestList struct operates on a doubly linked list. It has the same functions as the List structure.
 // Functions return nothing, but print all operations and results to the console.
 struct TestList {
 
